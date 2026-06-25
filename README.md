@@ -12,8 +12,7 @@ The objective of this task was to design a modern and user-friendly restaurant m
 
 ## 🎨 Design Preview
 
-![Restaurant Menu UI](c90c1502-c1e9-4e2b-8ef4-5828741e25d6.png)
-
+![Restaurant Menu UI](Screenshot%202026-06-25%20011946.png)
 ---
 
 ## ✨ Features
